@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data science projects, especially in areas like predictive modeling and data analysis.
 - 📫  How to reach me: Email or connect with me on LinkedIn @anwer-sadath.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started in mathematics but ended up completing my degree in English, which helps me explain complex data concepts simply!
+
 
 
 <!---
